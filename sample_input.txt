@@ -1,0 +1,5 @@
+Resume:
+Python, SQL, pandas, NumPy, Git, machine learning, communication.
+
+Job Description:
+We need a Python developer with SQL, machine learning, Git and problem solving skills.
